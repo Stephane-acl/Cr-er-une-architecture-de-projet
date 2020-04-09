@@ -1,0 +1,15 @@
+{
+    "name": "wilder/composer_quest",
+    "description": "Project composer quest",
+    "authors": [
+        {
+            "name": "Stephane-acl",
+            "email": "stephaneacl@gmail.com"
+        }
+    ],
+        "autoload": {
+            "psr-4": {"App\\": "src/"}
+        },
+
+    "require": {}
+}
